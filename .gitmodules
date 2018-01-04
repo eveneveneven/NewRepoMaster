@@ -1,0 +1,4 @@
+[submodule "NewRepoSub2"]
+	path = NewRepoSub2
+	url = https://github.com/eveneveneven/NewRepoSub.git
+	branch = master
